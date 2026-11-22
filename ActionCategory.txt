@@ -1,0 +1,9 @@
+「\uf11b」- Gameplay
+「\uf05b」- Waffen
+「\uf70c」- Bewegung
+「\uf013」- Hotkeys
+「\uf519」- Kommunikation
+<color=#FF00FF>「\uf120」- Admin</color>
+<color=red>「\uf05e」- Unbelegbar</color>
+<color=#00bfff>「\uf06e」- SCP-079</color>
+<color=red>「\uf6ad」- SCP-953</color>
