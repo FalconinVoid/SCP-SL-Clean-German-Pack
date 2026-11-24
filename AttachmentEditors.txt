@@ -1,0 +1,18 @@
+Custom
+Preset #[index]
+SAVE
+CLEAR ATTACHMENTS
+Default
+PRESETS
+<size=280><color=red>\n\n\uf011</color></size>
+Zum Hochfahren drücken\n<b>NUR AUTORISIERTES PERSONAL</b>
+WELCOME, USER!
+WORKSTATION IS BOOTING UP
+WORKSTATION - <color=#0c0>READY</color>
+<size=52><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color> - READY</size>\n<size=42><color=#ccc>PLEASE EQUIP YOUR FIREARM TO MODIFY ITS ATTACHMENTS.</color></size>
+POWERING DOWN
+WORKSTATION IS SHUTTING DOWN
+SHOW SUMMARY
+CLOSE SUMMARY
+[Attachment] Customization
+Press [Key] to edit attachments.
