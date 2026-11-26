@@ -1,18 +1,18 @@
-Custom
-Preset #[index]
-SAVE
-CLEAR ATTACHMENTS
-Default
-PRESETS
-<size=280><color=red>\n\n\uf011</color></size>
-Zum Hochfahren drücken\n<b>NUR AUTORISIERTES PERSONAL</b>
-WELCOME, USER!
-WORKSTATION IS BOOTING UP
-WORKSTATION - <color=#0c0>READY</color>
-<size=52><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color> - READY</size>\n<size=42><color=#ccc>PLEASE EQUIP YOUR FIREARM TO MODIFY ITS ATTACHMENTS.</color></size>
-POWERING DOWN
-WORKSTATION IS SHUTTING DOWN
-SHOW SUMMARY
-CLOSE SUMMARY
-[Attachment] Customization
-Press [Key] to edit attachments.
+Einzelstück \uf15c
+Blaupause#[index] \uf15c
+<color=green>SPEICHERN \uf15c</color>
+ZURÜCKSETZEN
+Standart \uf15b
+BLAUPAUSEN \uf07c
+<size=280><color=red>\uf011</color></size>
+<size=65><b>STANDBY</b>\nZum Hochfahren drücken.</size>
+<size=280><color=#34c0eb>\uf019</color></size>
+<size=65>AKTUALISIERE ARSENAL...</size>
+<size=280><color=green>\uf011</color></size>
+<size=65><b>BEREIT</b>\nWaffe ausrüsten.</size>
+<size=280><color=red>\uf093</color></size>
+<size=65>WECHSELE ZU STANDBY</size>
+<b>ZUSAMMENFASSUNG</b>
+<b>ZURÜCK</b>
+-
+Zur 「\uf0ad」Waffenbearbeitung [Key] drücken.
